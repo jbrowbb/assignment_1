@@ -66,3 +66,14 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+
+
+### Image Section
+
+This is the code to add and Image
+```ruby
+![Alt text](image_url)
+```
+
+Here is an image
+![This is Ducky my dog](Ducky.jpg)
