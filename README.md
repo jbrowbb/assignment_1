@@ -1,4 +1,4 @@
-# Using Miniconda
+# Creating and Exporting Miniconda Environment
 
 In Miniconda an environment was created called 'cs_assign1'
 ```ruby
@@ -68,7 +68,7 @@ if __name__ == "__main__":
 ```
 
 
-### Image Section
+### Picture
 
 This is the code to add and Image
 ```ruby
