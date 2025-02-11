@@ -13,7 +13,7 @@ $ conda activate cs_assign1
 
 
 Once the environment is activated, two packages were installed: Numpy and Matplotlib
-<code>
+```ruby
 $ conda install Numpy
 $ conda install Matplotlib
-</code>
+```
