@@ -17,3 +17,9 @@ Once the environment is activated, two packages were installed: Numpy and Matplo
 $ conda install Numpy
 $ conda install Matplotlib
 ```
+
+
+Environment was then exported
+```ruby
+$ conda env export > requirements.yaml
+```
